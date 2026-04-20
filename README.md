@@ -26,3 +26,7 @@ This project focuses on cleaning and preprocessing a messy Airbnb dataset using 
 
 ## Outcome
 The final dataset is cleaner, more consistent, and ready for further exploratory data analysis, visualization, or machine learning tasks. This project demonstrates the importance of data cleaning as a critical step in the data analysis workflow.
+
+## Code Snippet
+![](https://github.com/temee0/AirBnB-Intensive-Data-Cleaning-with-Python/blob/main/Code%20Snippet.png)
+**_click [here](https://github.com/temee0/AirBnB-Intensive-Data-Cleaning-with-Python/blob/main/Airbnb%20Notebook.ipynb) to view the Jupiter notebook for this project_**
