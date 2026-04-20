@@ -24,5 +24,5 @@ This project focuses on cleaning and preprocessing a messy Airbnb dataset using 
 - NumPy
 - Jupyter Notebook
 
-# Outcome
+## Outcome
 The final dataset is cleaner, more consistent, and ready for further exploratory data analysis, visualization, or machine learning tasks. This project demonstrates the importance of data cleaning as a critical step in the data analysis workflow.
